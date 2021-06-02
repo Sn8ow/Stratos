@@ -1,4 +1,4 @@
-# STRATOS
+# Stratos
 Stratos is a free and open source discord raid bot made by Sn8ow.
 Here you can read instructions on how to install Stratos aswell as a list of commands and their functions.
 
@@ -7,7 +7,7 @@ Here you can read instructions on how to install Stratos aswell as a list of com
 1) Select the newest branch from the dropdown menu on the left, it should automatically be on the newest version, but you can check to make sure.
 2) Select the button that says "Code" and press "Download ZIP"
 3) Unzip the zip file to wherever you want.
-4) Or download form releases.
+4) Or download from releases.
 
 # How to get a Discord Bot:
 
