@@ -20,7 +20,7 @@ Here you can read instructions on how to install Stratos aswell as a list of com
 7) Go back to the discord developer portal and go to the "OAuth2" tab.
 8) Scoll down to "scopes" and select the bot option, scroll down again to "permissions" and select "Administrator"
 9) You should now see a link, use this link to invite the raid bot to whatever server you have bot permissions in, make sure that the bot has a high rank and permissions.
-10) Open stratos.bat to start the bot.
+10) Open Stratos.exe to start the bot.
 
 # Commands:
 You can see a list of commands by using the +help command in discord.
